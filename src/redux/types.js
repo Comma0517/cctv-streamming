@@ -1,0 +1,1 @@
+export const GET_CAMERA_LIST = "GET_CAMERA_LIST"
